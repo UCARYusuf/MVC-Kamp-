@@ -1,0 +1,12 @@
+D:\SUNUCU\WEB\1-Projeler\MvcProjeKampi\MvcProjeKampi\EntityLayer\bin\Debug\EntityLayer.dll.config
+D:\SUNUCU\WEB\1-Projeler\MvcProjeKampi\MvcProjeKampi\EntityLayer\bin\Debug\EntityLayer.dll
+D:\SUNUCU\WEB\1-Projeler\MvcProjeKampi\MvcProjeKampi\EntityLayer\bin\Debug\EntityLayer.pdb
+D:\SUNUCU\WEB\1-Projeler\MvcProjeKampi\MvcProjeKampi\EntityLayer\bin\Debug\EntityFramework.dll
+D:\SUNUCU\WEB\1-Projeler\MvcProjeKampi\MvcProjeKampi\EntityLayer\bin\Debug\EntityFramework.SqlServer.dll
+D:\SUNUCU\WEB\1-Projeler\MvcProjeKampi\MvcProjeKampi\EntityLayer\bin\Debug\EntityFramework.xml
+D:\SUNUCU\WEB\1-Projeler\MvcProjeKampi\MvcProjeKampi\EntityLayer\bin\Debug\EntityFramework.SqlServer.xml
+D:\SUNUCU\WEB\1-Projeler\MvcProjeKampi\MvcProjeKampi\EntityLayer\obj\Debug\EntityLayer.csproj.AssemblyReference.cache
+D:\SUNUCU\WEB\1-Projeler\MvcProjeKampi\MvcProjeKampi\EntityLayer\obj\Debug\EntityLayer.csproj.CoreCompileInputs.cache
+D:\SUNUCU\WEB\1-Projeler\MvcProjeKampi\MvcProjeKampi\EntityLayer\obj\Debug\EntityLayer.csproj.CopyComplete
+D:\SUNUCU\WEB\1-Projeler\MvcProjeKampi\MvcProjeKampi\EntityLayer\obj\Debug\EntityLayer.dll
+D:\SUNUCU\WEB\1-Projeler\MvcProjeKampi\MvcProjeKampi\EntityLayer\obj\Debug\EntityLayer.pdb
